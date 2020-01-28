@@ -1,3 +1,6 @@
+#live URI for the hosted content
+https://build-2a6274b7-808c-4c1c-81ef-ecd190a418aa.gtsb.io/
+
 # gatsby-contentful-starter
 
 Gatsby [Contentful](https://www.contentful.com) starter for creating a blog
